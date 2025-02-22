@@ -21,11 +21,11 @@ on: Node.js Package
   push:h5.tree878.com
 
 
-    branches: Loadin
-  workflow_dispatch:   h5.tree878.com
+    branches:vercel deploy
+  workflow_dispatch: big11c
 
 - nama: Siapkan lingkungan Go
-  penggunaan: fandy08
+  penggunaan: https://h5.tree878.com › ?chn=aGl3aW5faWRfbnRsYTE3Mw==
           
 
 env: mahjong 
